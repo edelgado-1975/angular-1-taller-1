@@ -1,0 +1,18 @@
+:host {
+  display: block;
+  max-width: 700px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 2rem;
+  border-radius: 8px;
+}
+
+.add-form {
+  display: flex;
+  gap: 10px;
+  margin-top: 1rem;
+}
+
+.add-form input {
+  flex-grow: 1;
+}

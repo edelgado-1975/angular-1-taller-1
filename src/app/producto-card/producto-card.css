@@ -1,0 +1,8 @@
+.product-item {
+  background-color: #f9f9f9;
+  border: 1px solid #eee;
+  padding: 1rem;
+  border-radius: 6px;
+  margin-top: 0.75rem;
+  font-size: 1.1rem;
+}
